@@ -1,0 +1,8 @@
+geopandas
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+shapely
+urllib3
